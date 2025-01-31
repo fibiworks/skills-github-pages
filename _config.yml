@@ -1,7 +1,10 @@
 theme: minima
 
-title: Some Title
-author: Some Author
+title: Some Global Title
+
+author: Some Global Author
+
 description: |
   Some multiline 
-  description
+  description.
+  This is 3rd line

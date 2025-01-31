@@ -1,8 +1,8 @@
 ---
-title: Welcome to my blog, 1st entry
+title: Welcome to my blog, initial page
 ---
 
-This is some initial text
+This is index page
 
 - using markdown
 - is easy
