@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog, initial page
+title: Welcome to my blog, main page
 ---
 
 This is index page
